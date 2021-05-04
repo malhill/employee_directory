@@ -8,5 +8,5 @@ import axios from 'axios';
 // }
 
 export default function getEmp() {
-    return axios.get("https://randomuser.me/api/?results=4&nat=us");
+    return axios.get("https://randomuser.me/api/?results=6&nat=us");
 }
